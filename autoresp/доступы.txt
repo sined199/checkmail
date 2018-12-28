@@ -1,0 +1,14 @@
+phpmyadmin
+
+http://5.189.168.84/
+root
+--
+
+
+host - 5.189.168.84
+pass zip - RdmVmA0LYMBj-Ts4
+
+sudo:
+root:DbcEF5dCs2X8BG8Q
+
+pass dai3eiR7me

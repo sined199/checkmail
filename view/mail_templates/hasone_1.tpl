@@ -1,0 +1,1 @@
+I understand it, only more time for contact with our warehouse and shipping carrier\nSorry for delay,\nStacy

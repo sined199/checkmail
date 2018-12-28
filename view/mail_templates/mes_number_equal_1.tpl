@@ -1,0 +1,1 @@
+answer for number equal <?php echo $count; ?>

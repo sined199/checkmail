@@ -1,0 +1,1 @@
+Hello <?php echo $buyer_name; ?>\nGive me a little time I'll find out all the details\nStacy
